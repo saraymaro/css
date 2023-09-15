@@ -31,5 +31,8 @@ llamada a un fichero externo de CSS mediante a @import url.
 
 □ Manera 4: Mediante a la etiqueta <link rel="stylesheet" href="./style.css">
 realiza la llamada a un fichero externo de CSS.
-👉Como vemos en la imagen, hacemos que todo lo que sea h1 se ponga de color.
->
+👉Como vemos en la imagen, hacemos que todo lo que sea h1 se ponga de color mediante link y con el mismo fichero css que en el anterior.
+>![Alt text](img/9.png)
+
+👉Aquí vemos el resultado.
+>![Alt text](img/8.png)
